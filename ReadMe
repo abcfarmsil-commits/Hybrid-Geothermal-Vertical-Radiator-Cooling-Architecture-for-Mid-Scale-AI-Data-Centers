@@ -30,4 +30,22 @@ that integrates:
 10. Carbon Offset Model
 11. Cost Model
 12. Permitting + Deployment
+---
+
+## Baseline Engineering Assumptions (v0.1)
+
+This concept is modeled around the following reference case:
+
+- IT Load: 10 MW (mid-scale AI deployment)
+- Cooling Mode: Dry-first vertical radiator tower with VFD fan assist
+- Rack Loop: 40°C supply / 50°C return (warm-water compatible)
+- Design Ambient: 35°C dry bulb
+- Target Approach: 7–10°C above ambient at peak
+- Coil Pressure Drop Target: ≤10 Pa (draft-assist viable)
+- Not intended as full chiller replacement
+- Intended as fan/runtime reduction + recirculation control layer
+- Geothermal = assist loop, not sole rejection mechanism
+
+All values subject to refinement based on partner engineering input.
+
 
