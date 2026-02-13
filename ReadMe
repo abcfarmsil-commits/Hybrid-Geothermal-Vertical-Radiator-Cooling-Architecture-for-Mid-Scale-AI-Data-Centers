@@ -1,0 +1,33 @@
+README.md
+# Hybrid Geothermal Vertical Radiator Cooling Architecture
+### For Mid-Scale AI Data Centers
+
+This repository documents a hybrid cooling and energy-offset architecture
+that integrates:
+
+- Vertical radiator towers (60 ft target head)
+- Building height thermal drop
+- Geothermal assist loop
+- Liquid rack cooling integration
+- Rainwater capture (non-potable)
+- Gravity-assisted flow optimization
+- Farm + rooftop thermal mass options
+- Carbon offset modeling
+
+---
+
+## Architecture Sections
+
+1. Executive Overview
+2. System Architecture
+3. Cooling Loop Design
+4. Vertical Radiator Tower
+5. Geothermal Integration
+6. Rack-Level Liquid Cooling Integration
+7. Water Capture + Greywater
+8. Fire Suppression Integration
+9. Power Offset Modeling
+10. Carbon Offset Model
+11. Cost Model
+12. Permitting + Deployment
+
