@@ -1,0 +1,87 @@
+Zone,Area (sq ft),Temperature (°F),Humidity (%RH),Air Exchange (ACH),Lighting Requirements,Special Requirements
+Receiving & Pre-Production,400,65-70,40-60,4-6,300-500 lux,Standard room temperature
+Germination,400,70-75,80-90,3-4,Minimal/None,High humidity for seed sprouting
+Growing,1000,65-70,40-60,6-8,See lighting specs,Optimal for most microgreens
+Harvesting & Processing,400,60-65,50-60,8-10,750-1000 lux,Cooler for harvested product
+Shipping & Storage,300,33-38,90-95,2-3,300-500 lux,Cold storage for finished product
+
+HVAC Components,Specification,Quantity,Notes
+Primary Heating,High-efficiency natural gas furnace (95% AFUE),1,System-wide heating
+Backup Heating,Electric resistance heaters,5,Zone-specific
+Heat Distribution,Forced air with zone dampers,System-wide,Temperature control by zone
+BTU Capacity,120000 BTU total,System-wide,Sized for facility needs
+Primary Cooling,Split system (18+ SEER),1,Energy efficient
+Supplemental Cooling,Ceiling fans in growing zones,8,Air circulation
+Cold Storage,Dedicated refrigeration system (2 HP),1,For finished product
+BTU Cooling Capacity,80000 BTU total,System-wide,Sized for facility needs
+Air Handlers,Variable speed,2,Energy efficient
+Exhaust Fans,Humidity-controlled,4,Automated operation
+Fresh Air Intake,MERV 13 filtration,2,Adjustable intake
+Air Exchange,10 ACH maximum,System-wide,Adjustable by zone
+Dehumidifiers,Commercial grade (50 pint/day),4,Humidity control
+Humidifiers,Evaporative,2,Zone-specific
+Condensate Recovery,Water recycling system,1,For irrigation
+Control System,Independent humidity sensors,5,One per zone
+
+Lighting System,Specification,Quantity,Notes
+LED Grow Lights,Full spectrum,Multiple,Energy efficient
+Light Intensity,250-350 μmol/m²/s PPFD,N/A,Measured at plant level
+Coverage,Uniform distribution (<10% variance),N/A,Prevent stretching
+Mounting,Adjustable height (12-24" above crop),N/A,Flexibility for different crops
+Spectrum,Full spectrum with enhanced blue/red,N/A,Customizable per crop
+Far-Red Supplement,Optional 730nm enhancement,As needed,For specific varieties
+UV Supplement,Optional UV-A capability,As needed,For flavor enhancement
+Emergency Lighting,Battery backup,As needed,24-hour minimum
+Photoperiod Control,Programmable timers (1-minute increments),Multiple,Zone-specific
+Intensity Control,Dimmable 10-100%,Multiple,Energy saving
+Spectrum Control,Adjustable spectrum ratios,Multiple,Crop-specific recipes
+Automation,Integration with environmental controls,System-wide,Sensor-based adjustments
+
+Irrigation Components,Specification,Quantity,Notes
+Primary Water Source,Municipal water,N/A,Pre-filtered
+Backup Water Source,Water storage tanks (500 gallon),1,2-day supply
+Water Delivery,1" main line with 3/4" distribution,N/A,Adequate pressure
+Filtration,5-micron sediment with carbon filtration,1,Remove chlorine and sediment
+Disinfection,UV treatment system (40 mJ/cm²),1,Pathogen control
+pH Adjustment,Automated dosing system,1,Maintain 5.8-6.2 pH
+EC Management,Monitoring and adjustment system,1,Crop-specific
+Flood Trays,Custom-sized for growing racks,Multiple,Shallow flood design
+Water Delivery,Automated fill/drain system,Multiple,Timed cycles
+Drainage,Gravity return to holding tanks,System-wide,Complete drainage
+Control,Zone-specific timers and sensors,Multiple,Moisture-based
+Misting System,Fine mist nozzles (overhead),As needed,Germination zone
+Hand Watering,Wand attachments with breakers,As needed,Special crops
+Fertigation,Injector system (proportional),1,As needed
+Water Collection,Drainage capture from all zones,System-wide,Centralized system
+Water Filtration,Biological and mechanical,1,Remove debris and pathogens
+Water Treatment,UV sterilization with ozonation,1,Prevent disease spread
+Water Storage,300-gallon holding tank,1,Recirculation ready
+
+Monitoring Components,Specification,Quantity,Location
+Temperature Sensors,±0.5°F accuracy,10,All zones
+Humidity Sensors,±2% RH accuracy,10,All zones
+CO₂ Sensors,0-5000 ppm range,3,Growing zones
+Light Sensors,PAR measurement,6,Growing zones
+Airflow Sensors,Velocity measurement,5,All zones
+Water Level Sensors,Ultrasonic,5,"Tanks, trays"
+pH Sensors,Inline monitoring,2,Water system
+EC/TDS Sensors,Inline monitoring,2,Water system
+Moisture Sensors,Wireless probes,20,Growing media
+Flow Rate Sensors,Digital meters,5,Distribution lines
+Controller,Industrial PLC system,1,Redundant design
+Interface,10" touchscreen HMI,1,Wall-mounted
+Software,Custom control algorithms,1,Crop-specific recipes
+Connectivity,"Ethernet, Wi-Fi, cellular backup",System-wide,Remote access
+Sub-controllers,Distributed control nodes,Multiple,Zone-specific
+Redundancy,Failover capability,Critical systems,Emergency backup
+Manual Override,Physical controls,As needed,Emergency use
+
+Crop Requirements,Temperature (°F),Humidity (%),Light Intensity (PPFD),Irrigation Frequency,Special Requirements
+Broccoli,65-70,40-60,200-250,Once daily,Good air circulation
+Radish,65-70,40-60,200-250,Once daily,Lower humidity during harvest
+Sunflower,70-75,40-60,250-300,Twice daily,Higher water requirements
+Pea Shoots,65-70,50-70,200-250,Once daily,Moderate moisture
+Amaranth,70-75,50-70,300-350,Once daily,Heat tolerant
+Basil,70-75,50-70,250-300,Once daily,Sensitive to cold
+Cilantro,65-70,40-60,200-250,Once daily,Sensitive to heat
+Arugula,60-65,40-60,200-250,Once daily,Cool temperature preference

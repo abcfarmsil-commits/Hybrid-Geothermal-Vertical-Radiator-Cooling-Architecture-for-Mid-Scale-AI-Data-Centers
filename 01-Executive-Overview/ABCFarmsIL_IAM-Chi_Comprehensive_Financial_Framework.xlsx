@@ -1,0 +1,96 @@
+IAM-Chi Budget Detail,,,,,,
+Item,Description,Qty,Unit Cost ($),Line Total ($),ROI Metrics,Notes
+Wire rack systems with covers,Two sturdy racks with fitted covers,2,900,1800,Enables 200 trays/month capacity,Food-safe storage & light control
+LED grow lights + hardware,Eight full-spectrum fixtures,8,250,2000,Reduces energy costs by 40%,Optimized spectrum for microgreens
+IAQ sensors + data logger,Temp/RH/CO₂/PM sensors,1,1200,1200,Enables precision environmental control,Real-time monitoring & optimization
+Timers/relays/power strips,Complete electrical setup,1,400,400,Automates lighting & environmental systems,Includes GFCI safety features
+Portable dehumidifier,Right-sized for grow room,1,800,800,Prevents disease & optimizes growth,Energy-efficient operation
+Seeds/media/trays/domes,Starter inventory for cycles,1,1400,1400,Covers 3 months initial production,Multiple varieties for chef testing
+Food-safe containers/scale,Packaging & calibrated scale,1,700,700,Enables professional packaging,Traceable inventory system
+Inline sub-meter (lighting),Basic M&V for consumption,1,700,700,Monitors energy usage & costs,Enables efficiency optimization
+TOTAL EQUIPMENT,Complete IAM-Chi setup,,,9000,Enables $3000+ monthly revenue,ROI: 3 months @ $30/tray
+
+IAM-Chi Crop Economics,,,,,,
+Crop Name,Yield Per Tray (g),Grow Time (days),Sow Density (g),Price Range ($),Monthly Revenue,Profit Margin
+Pea Shoots,800,10,250,15-18,2400,65%
+Micro Basil,200,21,10,25-30,2000,75%
+Micro Cilantro,250,21,20,20-25,2500,70%
+Micro Parsley,200,28,15,25-30,2000,75%
+Micro Arugula,400,12,30,18-22,3200,68%
+Micro Kale,300,14,25,22-28,3000,72%
+Micro Mustard,450,10,20,18-22,3600,70%
+Micro Sunflower,600,8,150,12-15,3600,65%
+
+IAM-Chi Production Schedule,,,,,,
+Week,Crop,Trays,Revenue,COGS,Net Profit,Cumulative
+1-2,Pea Shoots,20,360,126,234,234
+3-4,Micro Basil,15,375,94,281,515
+5-6,Micro Cilantro,20,400,140,260,775
+7-8,Micro Arugula,25,500,160,340,1115
+9-10,Micro Kale,20,480,140,340,1455
+11-12,Micro Mustard,25,500,150,350,1805
+13-14,Micro Sunflower,30,450,195,255,2060
+15-16,Pea Shoots,25,450,158,292,2352
+
+IAM-Chi Revenue Projections,,,,,,
+Month,Trays Sold,Average Price,Revenue,COGS,Gross Profit,Net Profit
+1,50,22.50,1125,394,731,731
+2,75,24.00,1800,630,1170,1901
+3,100,25.00,2500,875,1625,3526
+4,125,26.00,3250,1138,2112,5638
+5,150,27.00,4050,1350,2700,8338
+6,175,27.50,4813,1575,3238,11576
+
+IAM-Chi Technology Investments,,,,,,
+Technology,Cost,Benefit,ROI Period,IP Strategy,Market Value
+Environmental monitoring system,1200,15% yield improvement,6 months,Proprietary algorithms,5000
+Automated lighting controls,400,20% energy savings,8 months,Trade secret,3000
+QR tracking system,500,10% price premium,5 months,Patent pending,7500
+Data logging platform,700,5% operational efficiency,12 months,Software copyright,4000
+TOTAL,2800,50%+ improvement,6 months avg,Multi-layered IP,19500
+
+IAM-Chi Funding Sources,,,,,,
+Source,Amount,Use,Timeline,Repayment,Impact
+Equipment Grant,4500,Initial setup,Month 1,N/A,Reduces founder risk
+Operating Loan,3000,Working capital,Months 1-3,3 months,Enables growth
+Revenue Reinvestment,Variable,Growth capital,Ongoing,N/A,Sustainable scaling
+TOTAL,7500,Complete IAM-Chi launch,3 months,Minimal debt,Rapid scaling
+
+IAM-Chi Cost Optimization,,,,,,
+Category,Current Cost,Optimized Cost,Savings Strategy,Timeline,Impact
+Energy,200/month,140/month,LED upgrades,Month 2-3,30% reduction
+Seeds,140/month,112/month,Bulk purchasing,Month 3-4,20% reduction
+Labor,300/month,240/month,Process automation,Month 4-5,20% reduction
+Packaging,100/month,50/month,Reusable containers,Month 2-3,50% reduction
+TOTAL,740/month,542/month,Integrated optimization,6 months,27% reduction
+
+IAM-Chi IP Portfolio,,,,,,
+Asset,Development Cost,Current Value,Protection Method,Licensing Potential,Market Value
+Growing recipes,1000,15000,Trade secret,High,75000
+QR tracking system,500,25000,Patent pending,Very high,150000
+Environmental data,800,12000,Proprietary data,Medium,60000
+Process optimization,600,8000,Trade secret,High,40000
+Brand development,500,10000,Trademark,Medium,50000
+TOTAL,3400,73000,Multi-layered protection,High,375000
+
+IAM-Chi Scaling Model,,,,,,
+Module,Capacity (trays),Revenue,CapEx,ROI,Break-even
+Single module,1000,25000,9000,278%,3.6 months
+Dual module,2000,50000,16000,313%,3.2 months
+Triple module,3000,75000,22000,341%,2.9 months
+Quad module,4000,100000,28000,357%,2.8 months
+Network,10000,250000,60000,417%,2.4 months
+
+IAM-Chi Market Positioning,,,,,,
+Segment,Price Point,Volume,Revenue,Margin,Strategy
+High-end restaurants,25-30,50-75,1500-2250,75%,Premium quality focus
+Mid-tier restaurants,20-25,100-150,2000-3750,70%,Value proposition
+CSA programs,18-22,200-300,3600-6600,65%,Volume efficiency
+Total market,18-30,350-525,7100-12650,70%,Diversified approach
+
+IAM-Chi Sustainability Metrics,,,,,,
+Metric,Current,Target,Timeline,Method,Impact
+Water usage,90% less,95% less,6 months,Rainwater + recycling,Environmental
+Energy efficiency,40% better,50% better,12 months,LED + controls,Cost reduction
+Waste reduction,85%,95%,3 months,Closed loop system,Zero waste
+Carbon footprint,98% less,99% less,Ongoing,Local delivery,Environmental

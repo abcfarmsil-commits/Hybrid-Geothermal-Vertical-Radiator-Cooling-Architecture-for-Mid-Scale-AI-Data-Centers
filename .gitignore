@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large files
+*.pdf
+*.zip
+*.tar.gz
+*.mp4
+*.m4a
+*.mov
+*.avi
+
+# Temporary files
+*.tmp
+*.log
+*.bak
+*~
+
+# Keep documentation but ignore large binaries
+# Add specific exceptions as needed
